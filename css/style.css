@@ -4,11 +4,11 @@ body{
     background-color: rgb(255, 254, 238);
 }
 .container{ 
-    margin:0 auto;
+    margin: 0 auto;
     width: 960px;
 }
 .place{
-    background-color:#FFF;
+    background-color: #FFF;
     border-color: #CCC #999 #999#CCC;
     border: 1px solid #CCC;
     margin-bottom: 20px;
@@ -31,7 +31,7 @@ body{
         color: #FFF;
  }
  .clear{
-    clear:both;
+    clear: both;
  }
 .place img {
 border: 1px solid #7E9F19;
